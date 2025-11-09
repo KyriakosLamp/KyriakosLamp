@@ -31,7 +31,7 @@ _A curious developer who loves building things that actually **do** something._
 🧮 [**Webapp iPhone Style Calculator**](https://github.com/KyriakosLamp/Calculator-WebApp)  
 A sleek, iPhone-inspired calculator made with **HTML/CSS + JS**  
 
-💾 **Java + MySQL Projects**  
+💾 [**Java + MySQL Cinema Standalone App**](https://github.com/KyriakosLamp/CinemAPP) 
 CRUD-style exercises connecting logic & databases  
 
 ⚙️ **MIPS Assembly Projects**  
