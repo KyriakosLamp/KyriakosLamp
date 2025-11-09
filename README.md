@@ -11,7 +11,7 @@ _A curious developer who loves building things that actually **do** something._
 
 - 🎓 University dropout turned passionate self-learner 💪
 - 💻 Studying programming @ Zone01_Athens 
-- 💡 I started coding using  `man` and Stack Overflow.
+- 💡 Started coding using  `man` and Stack Overflow.
 - 🤖 Continuesly evolving, learning about Prompting and Agents
 - 🧠 Exploring **Go**, **JS**, and **Unity** while strengthening my foundations  
 - 🧰 Working as a **computer & phone technician**, fixing both hardware & software  
@@ -22,9 +22,10 @@ _A curious developer who loves building things that actually **do** something._
 
 ### ⌛ Little Lessons I Keep in Mind
 
-- “Time is your most honest teacher; spend it learning, not doubting.”  
 - “Progress isn’t about perfection — it’s about persistence.”  
+- “Time is your most honest teacher; spend it learning, not doubting.”  
 - “Don’t rush the process; even small steps move you forward.”
+- ”Reduce, Reuse, Recycle”
 
 ---
 
@@ -41,24 +42,24 @@ _A curious developer who loves building things that actually **do** something._
 
 🧮 [**Webapp iPhone Style Calculator**](https://github.com/KyriakosLamp/Calculator-WebApp)  
 
-A sleek, iPhone-inspired calculator made with **HTML/CSS + JS**  
+- A sleek, iPhone-inspired calculator made with **HTML/CSS + JS**  
 
 💾 [**Java + MySQL Cinema Standalone App**](https://github.com/KyriakosLamp/CinemAPP)  
 
-CRUD-style exercises connecting logic & databases  
+- CRUD-style exercises connecting logic & databases  
 
 
 🎲 [**Unity 3D Mini Game**](https://github.com/KyriakosLamp/The-Museum-Project)
 
-My first 3D game experiment made for a university project  
+- My first 3D game experiment made for a university project  
 
-⚙️ **MIPS Assembly Projects**  
+⚙️ <ins>**MIPS Assembly Projects**
 
-Simple calculators and logic programs using **MARS**  
+- Simple calculators and logic programs using **MARS**  
 
-📚 **Many C and Bash Educational Projects**
+📚 <ins>**Many C and Bash Educational Projects**
 
-Data Structures and Algorithms, **MPI** / **Fork** projects, Memory control.
+- Data Structures and Algorithms, **MPI** / **Fork** projects, Memory control
 
 ---
 
@@ -70,19 +71,6 @@ Data Structures and Algorithms, **MPI** / **Fork** projects, Memory control.
   🔹 Keep learning, building, and sharing cool stuff  
 
 ---
-
-### 🖤 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KyriakosLamp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&hide_rank=false" width="90%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyriakosLamp&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="90%" />
-
-</div>
-
----
-
 
 <div align="center">
   
