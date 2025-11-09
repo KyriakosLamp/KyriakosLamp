@@ -9,11 +9,22 @@ _A curious developer who loves building things that actually **do** something._
 
 ### 💡 About Me
 
+- 🎓 University dropout turned passionate self-learner 💪
+- 💻 Studying programming @ Zone01_Athens 
+- 💡 I started coding using  `man` and Stack Overflow.
+- 🤖 Continuesly evolving, learning about Prompting and Agents
 - 🧠 Exploring **Go**, **JS**, and **Unity** while strengthening my foundations  
-- 💻 Studying programming at a private tech school  
 - 🧰 Working as a **computer & phone technician**, fixing both hardware & software  
 - 🏄‍♂️ Windsurfer, snowboarder & roller skater — I like things that move fast  
 - 🕹️ Tech lover, gamer, and curious mind  
+
+---
+
+### ⌛ Little Lessons I Keep in Mind
+
+- “Time is your most honest teacher; spend it learning, not doubting.”  
+- “Progress isn’t about perfection — it’s about persistence.”  
+- “Don’t rush the process; even small steps move you forward.”
 
 ---
 
@@ -36,21 +47,27 @@ A sleek, iPhone-inspired calculator made with **HTML/CSS + JS**
 
 CRUD-style exercises connecting logic & databases  
 
-⚙️ **MIPS Assembly Projects**  
-Simple calculators and logic programs using **MARS**  
 
 🎲 [**Unity 3D Mini Game**](https://github.com/KyriakosLamp/The-Museum-Project)
 
 My first 3D game experiment made for a university project  
 
+⚙️ **MIPS Assembly Projects**  
+
+Simple calculators and logic programs using **MARS**  
+
+📚 **Many C and Bash Educational Projects**
+
+Data Structures and Algorithms, **MPI** / **Fork** projects, Memory control.
+
 ---
 
-### 🧭 Goals Ahead
+### 🎯 Goals Ahead
 
-- 🔹 Grow into a **professional developer** role  
-- 🔹 Master **Go** and backend engineering  
-- 🔹 Dive deeper into **game development**  
-- 🔹 Keep learning, building, and sharing cool stuff  
+  🔹 Grow into a **professional developer** role  
+  🔹 Master **Go** and backend engineering  
+  🔹 Dive deeper into **game development**  
+  🔹 Keep learning, building, and sharing cool stuff  
 
 ---
 
@@ -68,7 +85,9 @@ My first 3D game experiment made for a university project
 
 
 <div align="center">
-
-> _“The best way to predict the future is to create it.”_ ✨
+  
+> _“Write C, understand Assembly, create Java programs... Congrats you can learn anything now.”_   
+> _“The best way to predict the future is to create it.”_
 
 </div>
+
