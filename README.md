@@ -3,11 +3,6 @@
 #  Hey there, I'm `Kyriakos` 👋  
 _A curious developer who loves building things that actually **do** something._
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=KyriakosLamp&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/KyriakosLamp?label=Follow&style=flat-square)](https://github.com/KyriakosLamp)
-
 </div>
 
 ---
