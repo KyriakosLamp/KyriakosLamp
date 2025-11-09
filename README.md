@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌌 Hey there, I'm `Kyriakos` 👋  
+#  Hey there, I'm `Kyriakos` 👋  
 _A curious developer who loves building things that actually **do** something._
 
 ---
