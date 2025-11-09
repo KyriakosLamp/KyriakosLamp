@@ -29,15 +29,18 @@ _A curious developer who loves building things that actually **do** something._
 ### ⚡ Some Projects I’ve Built
 
 🧮 [**Webapp iPhone Style Calculator**](https://github.com/KyriakosLamp/Calculator-WebApp)  
+
 A sleek, iPhone-inspired calculator made with **HTML/CSS + JS**  
 
-💾 [**Java + MySQL Cinema Standalone App**](https://github.com/KyriakosLamp/CinemAPP) 
+💾 [**Java + MySQL Cinema Standalone App**](https://github.com/KyriakosLamp/CinemAPP)  
+
 CRUD-style exercises connecting logic & databases  
 
 ⚙️ **MIPS Assembly Projects**  
 Simple calculators and logic programs using **MARS**  
 
-🎲 **Unity 3D Mini Game**  
+🎲 [**Unity 3D Mini Game**](https://github.com/KyriakosLamp/The-Museum-Project)
+
 My first 3D game experiment made for a university project  
 
 ---
