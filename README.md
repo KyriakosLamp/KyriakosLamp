@@ -75,7 +75,7 @@ _A curious developer who loves building things that actually **do** something._
 <div align="center">
   
 > _“Write C, understand Assembly, create Java programs... Congrats you can learn anything now.”_   
-> _“The best way to predict the future is to create it.”_
+
 
 </div>
 
